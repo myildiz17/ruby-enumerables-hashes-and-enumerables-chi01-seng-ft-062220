@@ -1,4 +1,4 @@
-hash = {key1: "value1", key2: "value2"}
+hash = {a: "can", b: "kan"}
 
 hash.each do |k, v|
   puts "#{k}: #{v}"
