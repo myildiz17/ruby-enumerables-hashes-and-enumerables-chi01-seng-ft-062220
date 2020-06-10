@@ -1,6 +1,5 @@
-has={a: "can", b: "kan"}
-
-has.each do |key,value|
-
-puts key value
+hash = {key1: "value1", key2: "value2"}
+ 
+hash.each do |key, value|
+  puts "#{key}: #{value}"
 end
