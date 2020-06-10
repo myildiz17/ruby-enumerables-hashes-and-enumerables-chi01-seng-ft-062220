@@ -1,6 +1,6 @@
 has={a: "can", b: "kan"}
 
-has.each do |k,v|
+has.each do |key,value|
 
-puts k v
+puts key value
 end
